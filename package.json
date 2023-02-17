@@ -1,0 +1,16 @@
+{
+  "name": "selenium-autofill-screenshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.1",
+    "selenium-webdriver": "^4.8.0"
+  }
+}
